@@ -1,0 +1,2 @@
+# smile-detector-using-opencv
+this is a python code which uses haarcascade files for eye,face and smile detection with the help of opencv we are utilizing these haarcascade files for some face recognization and this calcluations are done on cpu and the input is obtained from the webcam the input video is fragmented into frames and these frames are converted into gray images and calculations are done on these grey images and the result is projected back into video on window with the help of opencv
